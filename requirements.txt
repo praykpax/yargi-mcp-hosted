@@ -1,1 +1,2 @@
 yargi-mcp
+mcp<2.0
